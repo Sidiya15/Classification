@@ -1,7 +1,7 @@
 # Classification
 Digits classification
 
-This project consisted of finding the best and the most suitable classification algorithm in to predict the class of any digit. Throughout the course of this project, 
+This project consisted of finding the best and the most suitable classification algorithm for predicting the class of any digit. Throughout the course of this project, 
 we explored different types of machine learning algorithms for such task. For instance, we used several base (simple) algorithms like NaiveBayes, LogisticRegression,
 K-NearestNeighbours, LinearDiscriminantAnalysis, DecisionTree as well as the ensemble methods in their three forms :
     
