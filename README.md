@@ -8,7 +8,7 @@ K-NearestNeighbours, LinearDiscriminantAnalysis, DecisionTree as well as the ens
     * Bagging methods which helps to reduce the variance of the base estimator 
     and corrects the instability in the classifcation process, ex: Bagged Decision Trees, Random Forests 
     
-    * boosting methods where the goal is to combine several realtively weak estimators to come out with more powerful one 
+    * Boosting methods where the goal is to combine several realtively weak estimators to come out with more powerful one 
     and reduce the bias in the base estimators which are built sequentially (AdaBoost,  
     
     *
