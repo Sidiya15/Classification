@@ -6,7 +6,7 @@ we explored different types of machine learning algorithms for such task. For in
 K-NearestNeighbours, LinearDiscriminantAnalysis, DecisionTree as well as the ensemble methods in their three forms :
     
     - Bagging methods which helps to reduce the variance of the base estimator 
-    and corrects the instability during the classification process, ex: # Bagged Decision Trees, Random Forests 
+    and corrects the instability during the classification process, ex: Bagged Decision Trees, Random Forests 
     
     - Boosting methods where the goal is to combine several realtively weak estimators to come out with more powerful one 
     and reduce the bias in the base estimators which are built sequentially, ex: AdaBoost, Gradient Boosting Machine 
