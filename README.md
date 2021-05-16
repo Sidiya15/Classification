@@ -11,6 +11,6 @@ K-NearestNeighbours, LinearDiscriminantAnalysis, DecisionTree as well as the ens
     - Boosting methods where the goal is to combine several realtively weak estimators to come out with more powerful one 
     and reduce the bias in the base estimators which are built sequentially, ex: AdaBoost, Gradient Boosting Machine 
     
-    - Stacking methods which involve a model that learns how to best combine the predictions of all the estimators whether by voting, stacking or
-    weighted average
+    - Stacking methods which involve a model that learns how to best combine the predictions of all the estimators whether 
+    by voting, stacking or weighted average
 
