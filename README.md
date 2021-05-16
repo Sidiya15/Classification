@@ -5,11 +5,11 @@ This project consisted of finding the best and the most suitable classification 
 we explored different types of machine learning algorithms for such task. For instance, we used several base (simple) algorithms like NaiveBayes, LogisticRegression,
 K-NearestNeighbours, LinearDiscriminantAnalysis, DecisionTree as well as the ensemble methods in their threeforms :
     
-    *) Bagging methods which helps to reduce the variance of the base estimator 
+    * Bagging methods which helps to reduce the variance of the base estimator 
     and corrects the instability in the classifcation process, ex: Bagged Decision Trees, Random Forests 
     
-    *) boosting methods where the goal is to combine several realtively weak estimators to come out with more powerful one 
+    * boosting methods where the goal is to combine several realtively weak estimators to come out with more powerful one 
     and reduce the bias in the base estimators which are built sequentially (AdaBoost,  
     
-    *)
+    *
 
