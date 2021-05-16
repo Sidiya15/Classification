@@ -9,8 +9,8 @@ K-NearestNeighbours, LinearDiscriminantAnalysis, DecisionTree as well as the ens
     and corrects the instability during the classification process, 
     ex: Bagged Decision Trees, Random Forests 
     
-    - Boosting methods where the goal is to combine several realtively weak estimators to come out with 
-    more powerful oneand reduce the bias in the base estimators which are built sequentially,
+    - Boosting methods where the goal is to combine several relatively weak estimators to come out with 
+    more powerful one and reduce the bias in the base estimators which are built sequentially,
     ex: AdaBoost, Gradient Boosting Machine 
     
     - Stacking methods which involve a model that learns how to best combine the predictions of all 
